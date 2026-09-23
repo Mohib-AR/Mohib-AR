@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mohib Ali
-💻 Building full-stack apps with Next.js, serverless backends, and PostgreSQL/Prisma.<br>
+💻 Building full-stack apps with Next.js, serverless backends, and PostgreSQL.<br>
 🌐 Open-source projects around web development, serverless, and DevOps.<br>
 🌱 Core Javascipt, React, Next.js, Node.js, Prisma, PostgreSQL, and serverless architectures.<br>
 ☕ I never say no to good coffee and a thoughtful spiritual book ☕📖.
@@ -31,10 +31,11 @@
 
 <br><br>
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Mohib-AR&theme=github_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohib-AR&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+# What I Build::
+- Real-world web applications focused on solving practical problems.
+- Scalable systems and data-driven applications.
+- AI-powered features and products that make workflows simpler.
+- Open-source projects and experiments to learn, explore, and build.
 <br><br>
 
 ---
