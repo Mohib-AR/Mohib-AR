@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohib Ali
 
-🚀 **Full-Stack Software Engineer** | ⚙️ **Backend & Scalable Systems** | 🤖 **AI-Powered Applications**
+ **Full-Stack Software Engineer** | ⚙️ **Backend & Scalable Systems** | 🤖 **AI-Powered Applications**
 
-I build production-ready web applications — from modern frontend experiences to scalable backend systems, background workers, data pipelines, and AI-powered products.
+I build production-ready web applications from modern frontend experiences to scalable backend systems, background workers, data pipelines, and AI-powered products.
 
 I enjoy working across the complete development lifecycle:
 
