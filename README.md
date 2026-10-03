@@ -1,44 +1,102 @@
 # 👋 Hi, I'm Mohib Ali
-💻 Building full-stack apps with Next.js, serverless backends, and PostgreSQL.<br>
-🌐 Open-source projects around web development, serverless, and DevOps.<br>
-🌱 Core Javascipt, React, Next.js, Node.js, Prisma, PostgreSQL, and serverless architectures.<br>
-☕ I never say no to good coffee and a thoughtful spiritual book ☕📖.
 
-<br><br>
+🚀 **Full-Stack Software Engineer** | ⚙️ **Backend & Scalable Systems** | 🤖 **AI-Powered Applications**
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+I build production-ready web applications — from modern frontend experiences to scalable backend systems, background workers, data pipelines, and AI-powered products.
 
-<br><br>
+I enjoy working across the complete development lifecycle:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohib-ali-a144231a4) 
-&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Mohibali) 
-&nbsp;&nbsp;
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohibali170@gmail.com) 
-
-<br><br>
-
-# What I Build::
-- Real-world web applications focused on solving practical problems.
-- Scalable systems and data-driven applications.
-- AI-powered features and products that make workflows simpler.
-- Open-source projects and experiments to learn, explore, and build.
-<br><br>
+**architecture → implementation → optimization → deployment → iteration**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mohib-AR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Work On
+
+### 🌐 Full-Stack Applications
+
+- Production applications with **Next.js & React**
+- Scalable APIs with **Node.js & NestJS**
+- Authentication, payments & role-based systems
+- Real-time and data-intensive applications
+
+### ⚙️ Backend & Scalable Systems
+
+- PostgreSQL database design & optimization
+- Redis caching and rate limiting
+- Background processing with BullMQ
+- Large CSV/XLSX ingestion pipelines
+- REST APIs and asynchronous workflows
+
+### 🤖 AI & AI-Assisted Development
+
+- AI-powered application workflows
+- Multi-agent conversational systems
+- Speech-to-text with Whisper
+- LLM integrations and structured AI workflows
+- AI-assisted development with Claude Code & Cursor
+
+### ☁️ Cloud & Infrastructure
+
+- Dockerized applications
+- AWS S3 storage
+- CI/CD with GitHub Actions
+- Stripe payments & subscriptions
+- SendGrid email infrastructure
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🛠 Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🗄️ Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🤖 AI & Development Tools
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+---
+
+## 📌 What You'll Find Here
+
+⚙️ Full-stack production applications  
+🚀 Scalable backend systems & APIs  
+🤖 AI-powered applications and experiments  
+📊 Data-intensive applications  
+🧪 Engineering experiments & developer tooling
+
+I care about building software that doesn't just **work locally**, but stays reliable when it reaches **production**.
+
+---
+
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohib_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohib-ali-a144231a4/)
+[![Gmail](https://img.shields.io/badge/Gmail-mohibali170%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohibali170@gmail.com)
